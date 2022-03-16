@@ -12,6 +12,7 @@ class _DoctorsInfoState extends State<DoctorsInfo> {
       appBar: AppBar(
         backgroundColor: Colors.transparent,
         elevation: 0.0,
+        // ignore: deprecated_member_use
         brightness: Brightness.light,
         iconTheme: IconThemeData(color: Colors.black87),
       ),

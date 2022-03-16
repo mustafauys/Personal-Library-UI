@@ -28,6 +28,7 @@ class _HomePageState extends State<HomePage> {
       appBar: AppBar(
         backgroundColor: Colors.white,
         elevation: 0.0,
+        // ignore: deprecated_member_use
         brightness: Brightness.light,
         iconTheme: IconThemeData(color: Colors.black87),
       ),
